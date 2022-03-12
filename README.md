@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoinlensAudits
-- 👀Cryptocurrency growth
+- 👀Smart contract security audit Company & listing platform
 - 🌱 Currently displaying our audits here
 - 💞️ collaborations, audits
 - 📫 info@coinlens.net
