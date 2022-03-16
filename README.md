@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoinlensAudits
 - 👀Smart contract security audit Company & listing platform
 - 🌱 Currently displaying our audits here
-- 💞️ collaborations, auditsand KYC
+- 💞️ collaborations, audits and KYC
 - 📫 info@coinlens.net
 
 <!---
